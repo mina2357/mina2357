@@ -10,8 +10,11 @@
 ### 📸 My Setup Preview:
 
 <p align="center">
-  <img src="./Mina Roots 2.jpg" alt="My Setup 1" height="300px" style="margin: 10px;" />
-  <img src="./Mina Roots .jpg" alt="My Setup 2" height="300px" style="margin: 10px;" />
+  <img src="./mina_roots_1.jpg" alt="Setup Image 1" width="90%" style="margin-bottom: 20px;" />
+</p>
+
+<p align="center">
+  <img src="./mina_roots_2.jpg" alt="Setup Image 2" width="90%" />
 </p>
 
 ---
