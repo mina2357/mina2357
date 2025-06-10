@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mina</h1>
+🚀 Passionate Android Root Developer | KernelSU + Lsposed Expert
 <h3 align="center">Root Developer • Linux Enthusiast • Programmer</h3>
 
 ### ⚙️ Tech Stack & Tools
