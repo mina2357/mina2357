@@ -83,9 +83,7 @@
 
 ---
 
-<!-- 🧠 Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mina2357&layout=compact&theme=github_dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mina2357&layout=donut&theme=radical&hide_progress=true)
 ---
 
 <!-- 🐍 Contribution Snake -->
