@@ -12,9 +12,7 @@
 </p>
 
 ### ⚙️ Tech Stack & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mina2357/mina2357.github.io/main/mina-dave-logo.svg" alt="Mina Dave Logo" width="120"/>
-</p>
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
