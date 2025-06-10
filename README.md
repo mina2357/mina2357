@@ -1,4 +1,6 @@
-🚀 Passionate Android Root Developer | KernelSU + Lsposed Expert
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi%2C+I%27m+Mina+Ernest!;Android+Developer+%7C+KernelSU+Expert" alt="Typing SVG" />
+</h1>
 <h3 align="center">Root Developer • Linux Enthusiast • Programmer</h3>
 
 ### ⚙️ Tech Stack & Tools
