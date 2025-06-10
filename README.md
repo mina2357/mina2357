@@ -76,3 +76,22 @@
 
 - Telegram: [@mina2357](https://t.me/mina2357)
 - GitHub: [mina2357](https://github.com/mina2357)
+
+  ---
+
+### 📊 GitHub Insights
+
+---
+
+<!-- 🧠 Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mina2357&layout=compact&theme=github_dark)
+
+---
+
+<!-- 🐍 Contribution Snake -->
+![snake gif](https://github.com/mina2357/mina2357/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<!-- 🏆 Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=mina2357&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
