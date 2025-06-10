@@ -8,7 +8,7 @@
 <p align="center">
   <img src="transparent .png" alt="Chibi Girl" height="250px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Transparent 2.png" alt="GitHub Text" height="250px"/>
+  <img src="Transparent 2.png" alt="GitHub Text" height="220px"/>
 </p>
 
 ### ⚙️ Tech Stack & Tools
