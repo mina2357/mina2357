@@ -34,6 +34,9 @@
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mina2357/mina2357/main/mina-dave-logo.svg" width="120" alt="mina logo"/>
+</p>
 
 ### 🧰 Projects
 
