@@ -5,6 +5,11 @@
 />
 </h1>
 <h3 align="center">Root Developer • Linux Enthusiast • Programmer</h3>
+<p align="center">
+  <img src="transparent .png" alt="Chibi Girl" height="250px"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Transparent 2.png" alt="GitHub Text" height="250px"/>
+</p>
 
 ### ⚙️ Tech Stack & Tools
 
